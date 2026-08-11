@@ -1,0 +1,12 @@
+{
+  "appId": "in.dropouttraders.app",
+  "appName": "Dropout Traders",
+  "webDir": "www",
+  "server": {
+    "url": "https://dropouttraders.in",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
